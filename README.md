@@ -6,6 +6,7 @@
   Site para barbearia desenvolvido durante o treinamento de HTML5 e CSS3 ministrado pelo instrutor da ALURA, Pedro Marins.
   Sistema totalmente resposivo. Adaptável a qualquer tela a partir de 320px.
 </p>
+URL : https://barbershop-jnpimenta.netlify.app/
 
 ## Ferramentas utilizadas
     
